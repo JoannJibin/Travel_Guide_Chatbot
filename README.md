@@ -8,7 +8,7 @@ Built in **Google Colab** with an elegant **Gradio UI**, it's the easiest way to
 
 ## ✨ Features
 
-🗺️ Personalized travel itineraries for any two places in India  
+🗺️ Personalized travel itineraries for any place in India  
 🍛 Recommendations on local cuisines, culture, and hidden gems  
 🏨 Stay options from budget hostels to luxury hotels  
 🧘 Travel styles: solo, family, spiritual, adventure, and more  
