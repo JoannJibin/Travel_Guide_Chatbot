@@ -41,14 +41,6 @@ Example prompts:
 | **Python 3.11+** | Programming language               |
 
 ---
-## 📁 Project Structure
-
-Travel-Assistant-ChatBot/
-│
-├── Travel_ChatBot_Groq.ipynb # Main Colab notebook with Gradio and Groq setup
-├── README.md # Project documentation
-
----
 
 ## 🌱 Future Enhancements
 
